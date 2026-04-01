@@ -9,11 +9,37 @@
   "version_id": "cf77d816-09aa-476d-9496-63014dc0ef99",
   "state": "PREPARE_FOR_SUBMISSION",
   "release_type": "MANUAL",
+  "copyright": "© 2026 Klabin S.A.",
+  "uses_idfa": false,
+  "primary_category": "HEALTH_AND_FITNESS",
+  "secondary_category": "MEDICAL",
+  "age_rating": "17+",
+  "privacy_policy_url": "https://saudemental.klabin.com.br/privacidade",
   "latest_build": {
     "id": "c19d6df4-c4b9-4ef6-b144-7182685bbacc",
     "version": "1771434012",
     "uploaded_date": "2026-02-18T21:02:57-08:00",
     "processing_state": "VALID",
     "min_os_version": "15.1"
+  },
+  "screenshots": {
+    "display_type": "APP_IPHONE_67",
+    "set_id_pt_BR": "806abb56-d21f-41d4-9e24-f4cb2feac246",
+    "set_id_en_US": "ce29c1dd-edbf-43fc-b49a-0c858f40ff75",
+    "count": 5,
+    "screens": ["01_login","02_home","03_booking","04_carteirinha","05_historico"]
+  },
+  "compliance": {
+    "screenshots": "DONE",
+    "description": "DONE",
+    "keywords": "DONE",
+    "privacy_policy": "DONE",
+    "category": "DONE",
+    "age_rating": "DONE",
+    "review_contact": "DONE",
+    "copyright": "DONE",
+    "uses_idfa": "DONE",
+    "build": "VALID",
+    "ready_for_submission": true
   }
 }
