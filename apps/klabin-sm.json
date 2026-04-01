@@ -1,0 +1,19 @@
+{
+  "name": "Klabin SM",
+  "apple_id": "6759337378",
+  "sku": "EX1771434126466",
+  "bundle_id": "app.klabinsm",
+  "bundle_id_asc_id": "K4UU375XFJ",
+  "platform": "IOS",
+  "version": "1.0",
+  "version_id": "cf77d816-09aa-476d-9496-63014dc0ef99",
+  "state": "PREPARE_FOR_SUBMISSION",
+  "release_type": "MANUAL",
+  "latest_build": {
+    "id": "c19d6df4-c4b9-4ef6-b144-7182685bbacc",
+    "version": "1771434012",
+    "uploaded_date": "2026-02-18T21:02:57-08:00",
+    "processing_state": "VALID",
+    "min_os_version": "15.1"
+  }
+}
